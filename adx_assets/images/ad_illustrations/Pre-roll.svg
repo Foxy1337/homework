@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480px" height="280px" viewBox="0 0 480 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Pre-roll</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="480" height="280"></rect>
+        <circle id="path-2" cx="70" cy="258" r="10"></circle>
+        <filter x="-75.0%" y="-75.0%" width="250.0%" height="250.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.933333333   0 0 0 0 0.180392157   0 0 0 0 0.192156863  0 0 0 0.7 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M25.3895882,83 C26.1793806,84.201 27.7172385,84.99905 29.16008,84.99905 L58.8212822,84.99905 L29.16008,42.5 L58.8212822,0.00405 L29.16008,0 C27.7142221,0 26.1783751,0.7945 25.3895882,2 L1.50980682,38.25 C-0.0315702282,40.605 -0.0365975506,44.3985 1.50980682,46.75 L25.3895882,83 Z" id="path-4"></path>
+        <path d="M0.754098361,83 C-0.0356939891,84.201 -1.57355191,84.99905 -3.01639344,84.99905 L-32.6775956,84.99905 L-3.01639344,42.5 L-32.6775956,0.00405 L-3.01639344,0 C-1.57053552,0 -0.0346885246,0.7945 0.754098361,2 L24.6338798,38.25 C26.1752568,40.605 26.1802842,44.3985 24.6338798,46.75 L0.754098361,83 Z" id="path-6"></path>
+        <filter x="-17.1%" y="-16.5%" width="147.9%" height="132.9%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="4" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.933333333   0 0 0 0 0.180392157   0 0 0 0 0.192156863  0 0 0 0.7 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Illustrations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Pre-roll">
+            <g>
+                <g>
+                    <g id="Base">
+                        <g id="Rectangle-2">
+                            <use fill="#3B0B0C" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <rect stroke="#EE2E31" stroke-width="2" x="1" y="1" width="478" height="278"></rect>
+                        </g>
+                        <rect id="Rectangle" fill="#EE2E31" x="0" y="28" width="480" height="2"></rect>
+                        <circle id="Oval" stroke="#EE2E31" stroke-width="2" cx="15" cy="15" r="6"></circle>
+                        <circle id="Oval-Copy" stroke="#EE2E31" stroke-width="2" cx="35" cy="15" r="6"></circle>
+                        <circle id="Oval-Copy-2" stroke="#EE2E31" stroke-width="2" cx="55" cy="15" r="6"></circle>
+                    </g>
+                    <rect id="Rectangle-3" fill="#FFFFFF" x="20" y="255" width="440" height="6" rx="3"></rect>
+                    <rect id="Rectangle-3" fill="#EE2E31" x="20" y="255" width="50" height="6" rx="3"></rect>
+                    <g id="Oval-2">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="#071013" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <circle stroke="#FFFFFF" stroke-width="2" cx="70" cy="258" r="9"></circle>
+                    </g>
+                    <rect id="Rectangle-4" fill="#EE2E31" x="70" y="55" width="340" height="180" rx="10"></rect>
+                    <g id="X_logo" transform="translate(194.000000, 102.000000)">
+                        <g id="Group" transform="translate(32.677596, 0.000000)">
+                            <mask id="mask-5" fill="white">
+                                <use xlink:href="#path-4"></use>
+                            </mask>
+                            <use id="right" fill="#671411" xlink:href="#path-4"></use>
+                            <g id="shadow" mask="url(#mask-5)">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                                <use fill="#EE2E31" fill-rule="evenodd" xlink:href="#path-6"></use>
+                            </g>
+                        </g>
+                        <path d="M33.431694,83 C32.6419016,84.201 31.1040437,84.99905 29.6612022,84.99905 L0,84.99905 L29.6612022,42.5 L3.03866364e-16,0.00405 L29.6612022,0 C31.1070601,0 32.6429071,0.7945 33.431694,2 L57.3114754,38.25 C58.8528525,40.605 58.8578798,44.3985 57.3114754,46.75 L33.431694,83 Z" id="left" fill="#671411"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

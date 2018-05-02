@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="190px" height="190px" viewBox="0 0 190 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Search Ad</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="95" cy="95" r="95"></circle>
+        <rect id="path-3" x="20" y="20" width="120" height="150" rx="4"></rect>
+        <rect id="path-4" x="0" y="0" width="100" height="10" rx="1"></rect>
+        <polygon id="path-5" points="80.4289322 83.9644661 94.5710678 83.9644661 94.5710678 91.0355339 80.4289322 91.0355339"></polygon>
+        <path d="M50,100 C22.3857625,100 0,77.6142375 0,50 C0,22.3857625 22.3857625,0 50,0 C77.6142375,0 100,22.3857625 100,50 C100,77.6142375 77.6142375,100 50,100 Z M50,87 C70.4345357,87 87,70.4345357 87,50 C87,29.5654643 70.4345357,13 50,13 C29.5654643,13 13,29.5654643 13,50 C13,70.4345357 29.5654643,87 50,87 Z" id="path-6"></path>
+        <path d="M79.2659813,106.843146 L144.319805,105.428932 C145.262614,107.31455 145.734019,109.671573 145.734019,112.5 C145.734019,115.328427 145.262614,117.68545 144.319805,119.571068 L79.2659813,118.156854 L79.2659813,106.843146 Z" id="path-7"></path>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main-Page" transform="translate(-895.000000, -2105.000000)">
+            <g id="Search-Ad" transform="translate(890.000000, 2100.000000)">
+                <rect id="Rectangle-3" fill="#D8D8D8" opacity="0" x="0" y="0" width="200" height="200"></rect>
+                <g id="BG-Texture" transform="translate(5.000000, 5.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Oval-3"></g>
+                    <circle id="Oval-2-Copy-19" fill="#671411" mask="url(#mask-2)" cx="175" cy="20" r="5"></circle>
+                    <circle id="Oval-2-Copy-20" fill="#671411" mask="url(#mask-2)" cx="175" cy="50" r="5"></circle>
+                    <circle id="Oval-2-Copy-18" fill="#671411" mask="url(#mask-2)" cx="155" cy="20" r="5"></circle>
+                    <circle id="Oval-2-Copy-21" fill="#671411" mask="url(#mask-2)" cx="155" cy="50" r="5"></circle>
+                    <circle id="Oval-2-Copy-17" fill="#671411" mask="url(#mask-2)" cx="135" cy="20" r="5"></circle>
+                    <circle id="Oval-2-Copy-22" fill="#671411" mask="url(#mask-2)" cx="135" cy="50" r="5"></circle>
+                    <circle id="Oval-2-Copy-16" fill="#671411" mask="url(#mask-2)" cx="115" cy="20" r="5"></circle>
+                    <circle id="Oval-2-Copy-23" fill="#671411" mask="url(#mask-2)" cx="115" cy="50" r="5"></circle>
+                    <circle id="Oval-2-Copy-15" fill="#671411" mask="url(#mask-2)" cx="95" cy="20" r="5"></circle>
+                    <circle id="Oval-2-Copy-24" fill="#671411" mask="url(#mask-2)" cx="95" cy="50" r="5"></circle>
+                    <circle id="Oval-2-Copy-14" fill="#671411" mask="url(#mask-2)" cx="75" cy="20" r="5"></circle>
+                    <circle id="Oval-2-Copy-25" fill="#671411" mask="url(#mask-2)" cx="75" cy="50" r="5"></circle>
+                    <circle id="Oval-2-Copy-13" fill="#671411" mask="url(#mask-2)" cx="55" cy="20" r="5"></circle>
+                    <circle id="Oval-2-Copy-26" fill="#671411" mask="url(#mask-2)" cx="55" cy="50" r="5"></circle>
+                    <circle id="Oval-2-Copy-12" fill="#671411" mask="url(#mask-2)" cx="35" cy="20" r="5"></circle>
+                    <circle id="Oval-2-Copy-27" fill="#671411" mask="url(#mask-2)" cx="35" cy="50" r="5"></circle>
+                    <circle id="Oval-2-Copy-11" fill="#671411" mask="url(#mask-2)" cx="15" cy="20" r="5"></circle>
+                    <circle id="Oval-2-Copy-28" fill="#671411" mask="url(#mask-2)" cx="15" cy="50" r="5"></circle>
+                    <circle id="Oval-2-Copy-10" fill="#671411" mask="url(#mask-2)" cx="185" cy="5" r="5"></circle>
+                    <circle id="Oval-2-Copy-29" fill="#671411" mask="url(#mask-2)" cx="185" cy="35" r="5"></circle>
+                    <circle id="Oval-2-Copy-9" fill="#671411" mask="url(#mask-2)" cx="165" cy="5" r="5"></circle>
+                    <circle id="Oval-2-Copy-30" fill="#671411" mask="url(#mask-2)" cx="165" cy="35" r="5"></circle>
+                    <circle id="Oval-2-Copy-8" fill="#671411" mask="url(#mask-2)" cx="145" cy="5" r="5"></circle>
+                    <circle id="Oval-2-Copy-31" fill="#671411" mask="url(#mask-2)" cx="145" cy="35" r="5"></circle>
+                    <circle id="Oval-2-Copy-7" fill="#671411" mask="url(#mask-2)" cx="125" cy="5" r="5"></circle>
+                    <circle id="Oval-2-Copy-32" fill="#671411" mask="url(#mask-2)" cx="125" cy="35" r="5"></circle>
+                    <circle id="Oval-2-Copy-6" fill="#671411" mask="url(#mask-2)" cx="105" cy="5" r="5"></circle>
+                    <circle id="Oval-2-Copy-33" fill="#671411" mask="url(#mask-2)" cx="105" cy="35" r="5"></circle>
+                    <circle id="Oval-2-Copy-5" fill="#671411" mask="url(#mask-2)" cx="85" cy="5" r="5"></circle>
+                    <circle id="Oval-2-Copy-34" fill="#671411" mask="url(#mask-2)" cx="85" cy="35" r="5"></circle>
+                    <circle id="Oval-2-Copy-4" fill="#671411" mask="url(#mask-2)" cx="65" cy="5" r="5"></circle>
+                    <circle id="Oval-2-Copy-35" fill="#671411" mask="url(#mask-2)" cx="65" cy="35" r="5"></circle>
+                    <circle id="Oval-2-Copy-3" fill="#671411" mask="url(#mask-2)" cx="45" cy="5" r="5"></circle>
+                    <circle id="Oval-2-Copy-36" fill="#671411" mask="url(#mask-2)" cx="45" cy="35" r="5"></circle>
+                    <circle id="Oval-2-Copy" fill="#671411" mask="url(#mask-2)" cx="25" cy="5" r="5"></circle>
+                    <circle id="Oval-2-Copy-2" fill="#671411" mask="url(#mask-2)" cx="25" cy="35" r="5"></circle>
+                    <circle id="Oval-2" fill="#671411" mask="url(#mask-2)" cx="5" cy="5" r="5"></circle>
+                    <circle id="Oval-2-Copy-37" fill="#671411" mask="url(#mask-2)" cx="5" cy="35" r="5"></circle>
+                    <circle id="Oval-2-Copy-56" fill="#671411" mask="url(#mask-2)" cx="175" cy="80" r="5"></circle>
+                    <circle id="Oval-2-Copy-55" fill="#671411" mask="url(#mask-2)" cx="155" cy="80" r="5"></circle>
+                    <circle id="Oval-2-Copy-54" fill="#671411" mask="url(#mask-2)" cx="135" cy="80" r="5"></circle>
+                    <circle id="Oval-2-Copy-53" fill="#671411" mask="url(#mask-2)" cx="115" cy="80" r="5"></circle>
+                    <circle id="Oval-2-Copy-52" fill="#671411" mask="url(#mask-2)" cx="95" cy="80" r="5"></circle>
+                    <circle id="Oval-2-Copy-51" fill="#671411" mask="url(#mask-2)" cx="75" cy="80" r="5"></circle>
+                    <circle id="Oval-2-Copy-50" fill="#671411" mask="url(#mask-2)" cx="55" cy="80" r="5"></circle>
+                    <circle id="Oval-2-Copy-49" fill="#671411" mask="url(#mask-2)" cx="35" cy="80" r="5"></circle>
+                    <circle id="Oval-2-Copy-48" fill="#671411" mask="url(#mask-2)" cx="15" cy="80" r="5"></circle>
+                    <circle id="Oval-2-Copy-47" fill="#671411" mask="url(#mask-2)" cx="185" cy="65" r="5"></circle>
+                    <circle id="Oval-2-Copy-46" fill="#671411" mask="url(#mask-2)" cx="165" cy="65" r="5"></circle>
+                    <circle id="Oval-2-Copy-45" fill="#671411" mask="url(#mask-2)" cx="145" cy="65" r="5"></circle>
+                    <circle id="Oval-2-Copy-44" fill="#671411" mask="url(#mask-2)" cx="125" cy="65" r="5"></circle>
+                    <circle id="Oval-2-Copy-43" fill="#671411" mask="url(#mask-2)" cx="105" cy="65" r="5"></circle>
+                    <circle id="Oval-2-Copy-42" fill="#671411" mask="url(#mask-2)" cx="85" cy="65" r="5"></circle>
+                    <circle id="Oval-2-Copy-41" fill="#671411" mask="url(#mask-2)" cx="65" cy="65" r="5"></circle>
+                    <circle id="Oval-2-Copy-40" fill="#671411" mask="url(#mask-2)" cx="45" cy="65" r="5"></circle>
+                    <circle id="Oval-2-Copy-39" fill="#671411" mask="url(#mask-2)" cx="25" cy="65" r="5"></circle>
+                    <circle id="Oval-2-Copy-38" fill="#671411" mask="url(#mask-2)" cx="5" cy="65" r="5"></circle>
+                    <circle id="Oval-2-Copy-75" fill="#671411" mask="url(#mask-2)" cx="175" cy="110" r="5"></circle>
+                    <circle id="Oval-2-Copy-74" fill="#671411" mask="url(#mask-2)" cx="155" cy="110" r="5"></circle>
+                    <circle id="Oval-2-Copy-73" fill="#671411" mask="url(#mask-2)" cx="135" cy="110" r="5"></circle>
+                    <circle id="Oval-2-Copy-72" fill="#671411" mask="url(#mask-2)" cx="115" cy="110" r="5"></circle>
+                    <circle id="Oval-2-Copy-71" fill="#671411" mask="url(#mask-2)" cx="95" cy="110" r="5"></circle>
+                    <circle id="Oval-2-Copy-70" fill="#671411" mask="url(#mask-2)" cx="75" cy="110" r="5"></circle>
+                    <circle id="Oval-2-Copy-69" fill="#671411" mask="url(#mask-2)" cx="55" cy="110" r="5"></circle>
+                    <circle id="Oval-2-Copy-68" fill="#671411" mask="url(#mask-2)" cx="35" cy="110" r="5"></circle>
+                    <circle id="Oval-2-Copy-67" fill="#671411" mask="url(#mask-2)" cx="15" cy="110" r="5"></circle>
+                    <circle id="Oval-2-Copy-66" fill="#671411" mask="url(#mask-2)" cx="185" cy="95" r="5"></circle>
+                    <circle id="Oval-2-Copy-65" fill="#671411" mask="url(#mask-2)" cx="165" cy="95" r="5"></circle>
+                    <circle id="Oval-2-Copy-64" fill="#671411" mask="url(#mask-2)" cx="145" cy="95" r="5"></circle>
+                    <circle id="Oval-2-Copy-63" fill="#671411" mask="url(#mask-2)" cx="125" cy="95" r="5"></circle>
+                    <circle id="Oval-2-Copy-62" fill="#671411" mask="url(#mask-2)" cx="105" cy="95" r="5"></circle>
+                    <circle id="Oval-2-Copy-61" fill="#671411" mask="url(#mask-2)" cx="85" cy="95" r="5"></circle>
+                    <circle id="Oval-2-Copy-60" fill="#671411" mask="url(#mask-2)" cx="65" cy="95" r="5"></circle>
+                    <circle id="Oval-2-Copy-59" fill="#671411" mask="url(#mask-2)" cx="45" cy="95" r="5"></circle>
+                    <circle id="Oval-2-Copy-58" fill="#671411" mask="url(#mask-2)" cx="25" cy="95" r="5"></circle>
+                    <circle id="Oval-2-Copy-57" fill="#671411" mask="url(#mask-2)" cx="5" cy="95" r="5"></circle>
+                    <circle id="Oval-2-Copy-94" fill="#671411" mask="url(#mask-2)" cx="175" cy="140" r="5"></circle>
+                    <circle id="Oval-2-Copy-93" fill="#671411" mask="url(#mask-2)" cx="155" cy="140" r="5"></circle>
+                    <circle id="Oval-2-Copy-92" fill="#671411" mask="url(#mask-2)" cx="135" cy="140" r="5"></circle>
+                    <circle id="Oval-2-Copy-91" fill="#671411" mask="url(#mask-2)" cx="115" cy="140" r="5"></circle>
+                    <circle id="Oval-2-Copy-90" fill="#671411" mask="url(#mask-2)" cx="95" cy="140" r="5"></circle>
+                    <circle id="Oval-2-Copy-89" fill="#671411" mask="url(#mask-2)" cx="75" cy="140" r="5"></circle>
+                    <circle id="Oval-2-Copy-88" fill="#671411" mask="url(#mask-2)" cx="55" cy="140" r="5"></circle>
+                    <circle id="Oval-2-Copy-87" fill="#671411" mask="url(#mask-2)" cx="35" cy="140" r="5"></circle>
+                    <circle id="Oval-2-Copy-86" fill="#671411" mask="url(#mask-2)" cx="15" cy="140" r="5"></circle>
+                    <circle id="Oval-2-Copy-85" fill="#671411" mask="url(#mask-2)" cx="185" cy="125" r="5"></circle>
+                    <circle id="Oval-2-Copy-84" fill="#671411" mask="url(#mask-2)" cx="165" cy="125" r="5"></circle>
+                    <circle id="Oval-2-Copy-83" fill="#671411" mask="url(#mask-2)" cx="145" cy="125" r="5"></circle>
+                    <circle id="Oval-2-Copy-82" fill="#671411" mask="url(#mask-2)" cx="125" cy="125" r="5"></circle>
+                    <circle id="Oval-2-Copy-81" fill="#671411" mask="url(#mask-2)" cx="105" cy="125" r="5"></circle>
+                    <circle id="Oval-2-Copy-80" fill="#671411" mask="url(#mask-2)" cx="85" cy="125" r="5"></circle>
+                    <circle id="Oval-2-Copy-79" fill="#671411" mask="url(#mask-2)" cx="65" cy="125" r="5"></circle>
+                    <circle id="Oval-2-Copy-78" fill="#671411" mask="url(#mask-2)" cx="45" cy="125" r="5"></circle>
+                    <circle id="Oval-2-Copy-77" fill="#671411" mask="url(#mask-2)" cx="25" cy="125" r="5"></circle>
+                    <circle id="Oval-2-Copy-76" fill="#671411" mask="url(#mask-2)" cx="5" cy="125" r="5"></circle>
+                    <circle id="Oval-2-Copy-113" fill="#671411" mask="url(#mask-2)" cx="175" cy="170" r="5"></circle>
+                    <circle id="Oval-2-Copy-112" fill="#671411" mask="url(#mask-2)" cx="155" cy="170" r="5"></circle>
+                    <circle id="Oval-2-Copy-111" fill="#671411" mask="url(#mask-2)" cx="135" cy="170" r="5"></circle>
+                    <circle id="Oval-2-Copy-110" fill="#671411" mask="url(#mask-2)" cx="115" cy="170" r="5"></circle>
+                    <circle id="Oval-2-Copy-109" fill="#671411" mask="url(#mask-2)" cx="95" cy="170" r="5"></circle>
+                    <circle id="Oval-2-Copy-108" fill="#671411" mask="url(#mask-2)" cx="75" cy="170" r="5"></circle>
+                    <circle id="Oval-2-Copy-107" fill="#671411" mask="url(#mask-2)" cx="55" cy="170" r="5"></circle>
+                    <circle id="Oval-2-Copy-106" fill="#671411" mask="url(#mask-2)" cx="35" cy="170" r="5"></circle>
+                    <circle id="Oval-2-Copy-105" fill="#671411" mask="url(#mask-2)" cx="15" cy="170" r="5"></circle>
+                    <circle id="Oval-2-Copy-104" fill="#671411" mask="url(#mask-2)" cx="185" cy="155" r="5"></circle>
+                    <circle id="Oval-2-Copy-103" fill="#671411" mask="url(#mask-2)" cx="165" cy="155" r="5"></circle>
+                    <circle id="Oval-2-Copy-102" fill="#671411" mask="url(#mask-2)" cx="145" cy="155" r="5"></circle>
+                    <circle id="Oval-2-Copy-101" fill="#671411" mask="url(#mask-2)" cx="125" cy="155" r="5"></circle>
+                    <circle id="Oval-2-Copy-100" fill="#671411" mask="url(#mask-2)" cx="105" cy="155" r="5"></circle>
+                    <circle id="Oval-2-Copy-99" fill="#671411" mask="url(#mask-2)" cx="85" cy="155" r="5"></circle>
+                    <circle id="Oval-2-Copy-98" fill="#671411" mask="url(#mask-2)" cx="65" cy="155" r="5"></circle>
+                    <circle id="Oval-2-Copy-97" fill="#671411" mask="url(#mask-2)" cx="45" cy="155" r="5"></circle>
+                    <circle id="Oval-2-Copy-96" fill="#671411" mask="url(#mask-2)" cx="25" cy="155" r="5"></circle>
+                    <circle id="Oval-2-Copy-95" fill="#671411" mask="url(#mask-2)" cx="5" cy="155" r="5"></circle>
+                    <circle id="Oval-2-Copy-123" fill="#671411" mask="url(#mask-2)" cx="185" cy="185" r="5"></circle>
+                    <circle id="Oval-2-Copy-122" fill="#671411" mask="url(#mask-2)" cx="165" cy="185" r="5"></circle>
+                    <circle id="Oval-2-Copy-121" fill="#671411" mask="url(#mask-2)" cx="145" cy="185" r="5"></circle>
+                    <circle id="Oval-2-Copy-120" fill="#671411" mask="url(#mask-2)" cx="125" cy="185" r="5"></circle>
+                    <circle id="Oval-2-Copy-119" fill="#671411" mask="url(#mask-2)" cx="105" cy="185" r="5"></circle>
+                    <circle id="Oval-2-Copy-118" fill="#671411" mask="url(#mask-2)" cx="85" cy="185" r="5"></circle>
+                    <circle id="Oval-2-Copy-117" fill="#671411" mask="url(#mask-2)" cx="65" cy="185" r="5"></circle>
+                    <circle id="Oval-2-Copy-116" fill="#671411" mask="url(#mask-2)" cx="45" cy="185" r="5"></circle>
+                    <circle id="Oval-2-Copy-115" fill="#671411" mask="url(#mask-2)" cx="25" cy="185" r="5"></circle>
+                    <circle id="Oval-2-Copy-114" fill="#671411" mask="url(#mask-2)" cx="5" cy="185" r="5"></circle>
+                </g>
+                <g id="Rectangle-3">
+                    <use fill="#3B0B0C" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect stroke="#EE2E31" stroke-width="2" x="21" y="21" width="118" height="148" rx="4"></rect>
+                </g>
+                <g id="Search-Results" transform="translate(30.000000, 30.000000)">
+                    <path d="M1,38 L16,38 C16.5522847,38 17,38.4477153 17,39 C17,39.5522847 16.5522847,40 16,40 L1,40 C0.44771525,40 0,39.5522847 0,39 C0,38.4477153 0.44771525,38 1,38 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M20,38 L29,38 C29.5522847,38 30,38.4477153 30,39 C30,39.5522847 29.5522847,40 29,40 L20,40 C19.4477153,40 19,39.5522847 19,39 C19,38.4477153 19.4477153,38 20,38 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M35.1904762,33 L57.8095238,33 C58.4670057,33 59,33.4477153 59,34 C59,34.5522847 58.4670057,35 57.8095238,35 L35.1904762,35 C34.5329943,35 34,34.5522847 34,34 C34,33.4477153 34.5329943,33 35.1904762,33 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M62.2,33 L77.8,33 C78.4627417,33 79,33.4477153 79,34 C79,34.5522847 78.4627417,35 77.8,35 L62.2,35 C61.5372583,35 61,34.5522847 61,34 C61,33.4477153 61.5372583,33 62.2,33 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M1,43 L18,43 C18.5522847,43 19,43.4477153 19,44 C19,44.5522847 18.5522847,45 18,45 L1,45 C0.44771525,45 0,44.5522847 0,44 C0,43.4477153 0.44771525,43 1,43 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M22,43 L38,43 C38.5522847,43 39,43.4477153 39,44 C39,44.5522847 38.5522847,45 38,45 L22,45 C21.4477153,45 21,44.5522847 21,44 C21,43.4477153 21.4477153,43 22,43 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M27.7777778,39 L40.2222222,39 C40.651777,39 41,39.4477153 41,40 C41,40.5522847 40.651777,41 40.2222222,41 L27.7777778,41 C27.348223,41 27,40.5522847 27,40 C27,39.4477153 27.348223,39 27.7777778,39 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M46.2068966,39 L78.7931034,39 C79.459654,39 80,39.4477153 80,40 C80,40.5522847 79.459654,41 78.7931034,41 L46.2068966,41 C45.540346,41 45,40.5522847 45,40 C45,39.4477153 45.540346,39 46.2068966,39 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M10,48 L28,48 C28.5522847,48 29,48.4477153 29,49 C29,49.5522847 28.5522847,50 28,50 L10,50 C9.44771525,50 9,49.5522847 9,49 C9,48.4477153 9.44771525,48 10,48 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M1,58 L9,58 C9.55228475,58 10,58.4477153 10,59 C10,59.5522847 9.55228475,60 9,60 L1,60 C0.44771525,60 0,59.5522847 0,59 C0,58.4477153 0.44771525,58 1,58 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M13,58 L31,58 C31.5522847,58 32,58.4477153 32,59 C32,59.5522847 31.5522847,60 31,60 L13,60 C12.4477153,60 12,59.5522847 12,59 C12,58.4477153 12.4477153,58 13,58 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M37.2105263,57 L57.7894737,57 C58.4580289,57 59,57.4477153 59,58 C59,58.5522847 58.4580289,59 57.7894737,59 L37.2105263,59 C36.5419711,59 36,58.5522847 36,58 C36,57.4477153 36.5419711,57 37.2105263,57 Z" id="Rectangle-4-Copy" fill="#EE2E31"></path>
+                    <path d="M62.2,57 L77.8,57 C78.4627417,57 79,57.4477153 79,58 C79,58.5522847 78.4627417,59 77.8,59 L62.2,59 C61.5372583,59 61,58.5522847 61,58 C61,57.4477153 61.5372583,57 62.2,57 Z" id="Rectangle-4-Copy" fill="#EE2E31"></path>
+                    <path d="M1,63 L18,63 C18.5522847,63 19,63.4477153 19,64 C19,64.5522847 18.5522847,65 18,65 L1,65 C0.44771525,65 0,64.5522847 0,64 C0,63.4477153 0.44771525,63 1,63 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M28.1875,63 L44.8125,63 C45.4683381,63 46,63.4477153 46,64 C46,64.5522847 45.4683381,65 44.8125,65 L28.1875,65 C27.5316619,65 27,64.5522847 27,64 C27,63.4477153 27.5316619,63 28.1875,63 Z" id="Rectangle-4-Copy" fill="#EE2E31"></path>
+                    <path d="M49.1923077,63 L77.8076923,63 C78.4661857,63 79,63.4477153 79,64 C79,64.5522847 78.4661857,65 77.8076923,65 L49.1923077,65 C48.5338143,65 48,64.5522847 48,64 C48,63.4477153 48.5338143,63 49.1923077,63 Z" id="Rectangle-4-Copy" fill="#EE2E31"></path>
+                    <path d="M1,68 L10,68 C10.5522847,68 11,68.4477153 11,69 C11,69.5522847 10.5522847,70 10,70 L1,70 C0.44771525,70 0,69.5522847 0,69 C0,68.4477153 0.44771525,68 1,68 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M14,68 L22,68 C22.5522847,68 23,68.4477153 23,69 C23,69.5522847 22.5522847,70 22,70 L14,70 C13.4477153,70 13,69.5522847 13,69 C13,68.4477153 13.4477153,68 14,68 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M26.2,69 L59.8,69 C60.4627417,69 61,69.4477153 61,70 C61,70.5522847 60.4627417,71 59.8,71 L26.2,71 C25.5372583,71 25,70.5522847 25,70 C25,69.4477153 25.5372583,69 26.2,69 Z" id="Rectangle-4-Copy" fill="#EE2E31"></path>
+                    <path d="M65.2307692,69 L78.7692308,69 C79.4489658,69 80,69.4477153 80,70 C80,70.5522847 79.4489658,71 78.7692308,71 L65.2307692,71 C64.5510342,71 64,70.5522847 64,70 C64,69.4477153 64.5510342,69 65.2307692,69 Z" id="Rectangle-4-Copy" fill="#EE2E31"></path>
+                    <path d="M34.2105263,45 L54.7894737,45 C55.4580289,45 56,45.4477153 56,46 C56,46.5522847 55.4580289,47 54.7894737,47 L34.2105263,47 C33.5419711,47 33,46.5522847 33,46 C33,45.4477153 33.5419711,45 34.2105263,45 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M59.2222222,45 L78.7777778,45 C79.4527925,45 80,45.4477153 80,46 C80,46.5522847 79.4527925,47 78.7777778,47 L59.2222222,47 C58.5472075,47 58,46.5522847 58,46 C58,45.4477153 58.5472075,45 59.2222222,45 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M1,48 L6,48 C6.55228475,48 7,48.4477153 7,49 C7,49.5522847 6.55228475,50 6,50 L1,50 C0.44771525,50 0,49.5522847 0,49 C0,48.4477153 0.44771525,48 1,48 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <rect id="Rectangle-4-Copy" fill-opacity="0.699999988" fill="#FFFFFF" x="0" y="18" width="10" height="2" rx="1"></rect>
+                    <rect id="Rectangle-4-Copy" fill-opacity="0.699999988" fill="#FFFFFF" x="12" y="18" width="20" height="2" rx="1"></rect>
+                    <rect id="Rectangle-4-Copy" fill-opacity="0.699999988" fill="#FFFFFF" x="34" y="18" width="13" height="2" rx="1"></rect>
+                    <rect id="Rectangle-4-Copy" fill-opacity="0.699999988" fill="#FFFFFF" x="49" y="18" width="21" height="2" rx="1"></rect>
+                    <rect id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF" x="0" y="23" width="16" height="2" rx="1"></rect>
+                    <rect id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF" x="18" y="23" width="24" height="2" rx="1"></rect>
+                    <rect id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF" x="44" y="23" width="16" height="2" rx="1"></rect>
+                    <rect id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF" x="62" y="23" width="8" height="2" rx="1"></rect>
+                    <rect id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF" x="0" y="28" width="11" height="2" rx="1"></rect>
+                    <rect id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF" x="13" y="28" width="10" height="2" rx="1"></rect>
+                    <rect id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF" x="25" y="28" width="15" height="2" rx="1"></rect>
+                    <path d="M41,98 L50,98 C50.5522847,98 51,98.4477153 51,99 C51,99.5522847 50.5522847,100 50,100 L41,100 C40.4477153,100 40,99.5522847 40,99 C40,98.4477153 40.4477153,98 41,98 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M18,98 L37,98 C37.5522847,98 38,98.4477153 38,99 C38,99.5522847 37.5522847,100 37,100 L18,100 C17.4477153,100 17,99.5522847 17,99 C17,98.4477153 17.4477153,98 18,98 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M1,98 L14,98 C14.5522847,98 15,98.4477153 15,99 C15,99.5522847 14.5522847,100 14,100 L1,100 C0.44771525,100 0,99.5522847 0,99 C0,98.4477153 0.44771525,98 1,98 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M52,103 L69,103 C69.5522847,103 70,103.447715 70,104 C70,104.552285 69.5522847,105 69,105 L52,105 C51.4477153,105 51,104.552285 51,104 C51,103.447715 51.4477153,103 52,103 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M32,103 L48,103 C48.5522847,103 49,103.447715 49,104 C49,104.552285 48.5522847,105 48,105 L32,105 C31.4477153,105 31,104.552285 31,104 C31,103.447715 31.4477153,103 32,103 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M1,103 L28,103 C28.5522847,103 29,103.447715 29,104 C29,104.552285 28.5522847,105 28,105 L1,105 C0.44771525,105 0,104.552285 0,104 C0,103.447715 0.44771525,103 1,103 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M42,108 L60,108 C60.5522847,108 61,108.447715 61,109 C61,109.552285 60.5522847,110 60,110 L42,110 C41.4477153,110 41,109.552285 41,109 C41,108.447715 41.4477153,108 42,108 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M61,118 L69,118 C69.5522847,118 70,118.447715 70,119 C70,119.552285 69.5522847,120 69,120 L61,120 C60.4477153,120 60,119.552285 60,119 C60,118.447715 60.4477153,118 61,118 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M39,118 L57,118 C57.5522847,118 58,118.447715 58,119 C58,119.552285 57.5522847,120 57,120 L39,120 C38.4477153,120 38,119.552285 38,119 C38,118.447715 38.4477153,118 39,118 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M18,118 L35,118 C35.5522847,118 36,118.447715 36,119 C36,119.552285 35.5522847,120 35,120 L18,120 C17.4477153,120 17,119.552285 17,119 C17,118.447715 17.4477153,118 18,118 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M1,118 L14,118 C14.5522847,118 15,118.447715 15,119 C15,119.552285 14.5522847,120 14,120 L1,120 C0.44771525,120 0,119.552285 0,119 C0,118.447715 0.44771525,118 1,118 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M55,123 L69,123 C69.5522847,123 70,123.447715 70,124 C70,124.552285 69.5522847,125 69,125 L55,125 C54.4477153,125 54,124.552285 54,124 C54,123.447715 54.4477153,123 55,123 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M29,123 L51,123 C51.5522847,123 52,123.447715 52,124 C52,124.552285 51.5522847,125 51,125 L29,125 C28.4477153,125 28,124.552285 28,124 C28,123.447715 28.4477153,123 29,123 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M1,123 L25,123 C25.5522847,123 26,123.447715 26,124 C26,124.552285 25.5522847,125 25,125 L1,125 C0.44771525,125 0,124.552285 0,124 C0,123.447715 0.44771525,123 1,123 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M60,128 L69,128 C69.5522847,128 70,128.447715 70,129 C70,129.552285 69.5522847,130 69,130 L60,130 C59.4477153,130 59,129.552285 59,129 C59,128.447715 59.4477153,128 60,128 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M48,128 L56,128 C56.5522847,128 57,128.447715 57,129 C57,129.552285 56.5522847,130 56,130 L48,130 C47.4477153,130 47,129.552285 47,129 C47,128.447715 47.4477153,128 48,128 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M16,128 L44,128 C44.5522847,128 45,128.447715 45,129 C45,129.552285 44.5522847,130 44,130 L16,130 C15.4477153,130 15,129.552285 15,129 C15,128.447715 15.4477153,128 16,128 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M1,128 L12,128 C12.5522847,128 13,128.447715 13,129 C13,129.552285 12.5522847,130 12,130 L1,130 C0.44771525,130 0,129.552285 0,129 C0,128.447715 0.44771525,128 1,128 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M21,108 L38,108 C38.5522847,108 39,108.447715 39,109 C39,109.552285 38.5522847,110 38,110 L21,110 C20.4477153,110 20,109.552285 20,109 C20,108.447715 20.4477153,108 21,108 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M1,108 L17,108 C17.5522847,108 18,108.447715 18,109 C18,109.552285 17.5522847,110 17,110 L1,110 C0.44771525,110 0,109.552285 0,109 C0,108.447715 0.44771525,108 1,108 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M64,108 L69,108 C69.5522847,108 70,108.447715 70,109 C70,109.552285 69.5522847,110 69,110 L64,110 C63.4477153,110 63,109.552285 63,109 C63,108.447715 63.4477153,108 64,108 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M68.2,81 L77.8,81 C78.4627417,81 79,81.4477153 79,82 C79,82.5522847 78.4627417,83 77.8,83 L68.2,83 C67.5372583,83 67,82.5522847 67,82 C67,81.4477153 67.5372583,81 68.2,81 Z" id="Rectangle-4-Copy" fill-opacity="0.699999988" fill="#FFFFFF"></path>
+                    <path d="M42.2,81 L63.8,81 C64.4627417,81 65,81.4477153 65,82 C65,82.5522847 64.4627417,83 63.8,83 L42.2,83 C41.5372583,83 41,82.5522847 41,82 C41,81.4477153 41.5372583,81 42.2,81 Z" id="Rectangle-4-Copy" fill-opacity="0.699999988" fill="#FFFFFF"></path>
+                    <path d="M24.2307692,81 L37.7692308,81 C38.4489658,81 39,81.4477153 39,82 C39,82.5522847 38.4489658,83 37.7692308,83 L24.2307692,83 C23.5510342,83 23,82.5522847 23,82 C23,81.4477153 23.5510342,81 24.2307692,81 Z" id="Rectangle-4-Copy" fill-opacity="0.699999988" fill="#FFFFFF"></path>
+                    <path d="M1,78 L20,78 C20.5522847,78 21,78.4477153 21,79 C21,79.5522847 20.5522847,80 20,80 L1,80 C0.44771525,80 0,79.5522847 0,79 C0,78.4477153 0.44771525,78 1,78 Z" id="Rectangle-4-Copy" fill-opacity="0.699999988" fill="#FFFFFF"></path>
+                    <path d="M61.1875,87 L77.8125,87 C78.4683381,87 79,87.4477153 79,88 C79,88.5522847 78.4683381,89 77.8125,89 L61.1875,89 C60.5316619,89 60,88.5522847 60,88 C60,87.4477153 60.5316619,87 61.1875,87 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M30.2083333,87 L56.7916667,87 C57.4590107,87 58,87.4477153 58,88 C58,88.5522847 57.4590107,89 56.7916667,89 L30.2083333,89 C29.5409893,89 29,88.5522847 29,88 C29,87.4477153 29.5409893,87 30.2083333,87 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M11,83 L25,83 C25.5522847,83 26,83.4477153 26,84 C26,84.5522847 25.5522847,85 25,85 L11,85 C10.4477153,85 10,84.5522847 10,84 C10,83.4477153 10.4477153,83 11,83 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M1,83 L7,83 C7.55228475,83 8,83.4477153 8,84 C8,84.5522847 7.55228475,85 7,85 L1,85 C0.44771525,85 0,84.5522847 0,84 C0,83.4477153 0.44771525,83 1,83 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M1,88 L17,88 C17.5522847,88 18,88.4477153 18,89 C18,89.5522847 17.5522847,90 17,90 L1,90 C0.44771525,90 0,89.5522847 0,89 C0,88.4477153 0.44771525,88 1,88 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M21,88 L35,88 C35.5522847,88 36,88.4477153 36,89 C36,89.5522847 35.5522847,90 35,90 L21,90 C20.4477153,90 20,89.5522847 20,89 C20,88.4477153 20.4477153,88 21,88 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M67.1818182,93 L77.8181818,93 C78.470882,93 79,93.4477153 79,94 C79,94.5522847 78.470882,95 77.8181818,95 L67.1818182,95 C66.529118,95 66,94.5522847 66,94 C66,93.4477153 66.529118,93 67.1818182,93 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M53.2,93 L62.8,93 C63.4627417,93 64,93.4477153 64,94 C64,94.5522847 63.4627417,95 62.8,95 L53.2,95 C52.5372583,95 52,94.5522847 52,94 C52,93.4477153 52.5372583,93 53.2,93 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <path d="M32.2,93 L47.8,93 C48.4627417,93 49,93.4477153 49,94 C49,94.5522847 48.4627417,95 47.8,95 L32.2,95 C31.5372583,95 31,94.5522847 31,94 C31,93.4477153 31.5372583,93 32.2,93 Z" id="Rectangle-4-Copy" fill-opacity="0.700000048" fill="#FFFFFF"></path>
+                    <g id="Rectangle-15">
+                        <use fill="#671411" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        <rect stroke="#EE2E31" stroke-width="1" x="0.5" y="0.5" width="99" height="9" rx="1"></rect>
+                    </g>
+                    <rect id="Rectangle-4-Copy" fill-opacity="0.699999988" fill="#FFFFFF" x="3" y="3" width="23" height="4" rx="2"></rect>
+                    <rect id="Rectangle-4-Copy" fill-opacity="0.699999988" fill="#FFFFFF" x="29" y="3" width="15" height="4" rx="2"></rect>
+                    <rect id="Rectangle-4" fill="#EE2E31" x="79" y="0" width="21" height="10" rx="1"></rect>
+                    <rect id="Rectangle-4-Copy" fill-opacity="0.699999988" fill="#FFFFFF" x="82" y="3" width="15" height="4" rx="2"></rect>
+                </g>
+                <g id="Loopa" transform="translate(50.000000, 45.000000)">
+                    <g id="Rectangle-2" transform="translate(87.500000, 87.500000) rotate(45.000000) translate(-87.500000, -87.500000) ">
+                        <use fill="#210607" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        <path stroke="#EE2E31" stroke-width="2" d="M81.4289322,84.9644661 L81.4289322,90.0355339 L93.5710678,90.0355339 L93.5710678,84.9644661 L81.4289322,84.9644661 Z"></path>
+                    </g>
+                    <g id="Combined-Shape">
+                        <use fill="#210607" fill-rule="evenodd" xlink:href="#path-6"></use>
+                        <path stroke="#EE2E31" stroke-width="2" d="M50,99 C77.0619527,99 99,77.0619527 99,50 C99,22.9380473 77.0619527,1 50,1 C22.9380473,1 1,22.9380473 1,50 C1,77.0619527 22.9380473,99 50,99 Z M50,88 C29.0131795,88 12,70.9868205 12,50 C12,29.0131795 29.0131795,12 50,12 C70.9868205,12 88,29.0131795 88,50 C88,70.9868205 70.9868205,88 50,88 Z"></path>
+                    </g>
+                    <g id="Rectangle" transform="translate(112.500000, 112.500000) rotate(45.000000) translate(-112.500000, -112.500000) ">
+                        <use fill="#210607" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        <path stroke="#EE2E31" stroke-width="2" d="M80.2659813,107.821643 L80.2659813,117.178357 L143.686504,118.557064 C144.381279,116.916592 144.734019,114.89895 144.734019,112.5 C144.734019,110.10105 144.381279,108.083408 143.686504,106.442936 L80.2659813,107.821643 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

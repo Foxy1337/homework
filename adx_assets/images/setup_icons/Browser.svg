@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Browser</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Setup-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Browser">
+            <g id="Icons/Browser">
+                <rect id="Rectangle-2" fill="#D8D8D8" opacity="0" x="0" y="0" width="80" height="80"></rect>
+                <g id="Group" stroke-width="1" transform="translate(10.000000, 10.000000)" stroke="#671411" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M54.7581322,13.0678852 C49.3522563,5.17649914 40.2799514,0 30,0 C20.180735,0 11.4633027,4.72293516 5.99051419,12.0235284 L19.5,36 M2.96784246,16.9935609 C1.0660051,20.937658 0,25.3614582 0,30.0345238 C0,45.6690932 11.9323886,58.5134967 27.1771861,59.9378347 L40.5,36 M32.0503923,60 C47.6626199,58.9450147 60,45.932202 60,30.0345238 C60,25.7771808 59.115225,21.7267258 57.5197213,18.0574054 L30,18" id="Oval-3" stroke-width="2"></path>
+                    <ellipse id="Oval-2" stroke-width="2" fill="#EE2E31" cx="30" cy="30.03625" rx="12" ry="12.0132341"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

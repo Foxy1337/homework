@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="/js/Script.js"></script>
+    <script src="/js/vue.js"></script>
+    <script src="/js/vue-carousel-3d.min.js"></script>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<div class="wrapper">
+    <div class="container">
+<section class="banner">
+    <div class="container">
+        <div class="header">
+            <div class="logo">
+                <h1><a href="#">ad<img class="logo_img" src="images/icono2.png" alt="">network</a></h1>
+            </div>
+            <div class="navigation">
+                <ul class="nav1">
+                    <li><a class="navNon" href="#formats">formats</a></li>
+                    <li><a class="navNon" href="#clients">clients</a></li>
+                    <li><a class="navNon" href="#adsSetup">setup</a></li>
+                    <li><a class="navNon" href="#partners">partners</a></li>
+                    <li><a class="navNon" href="#yourRole">your role</a></li>
+                    <li><a class="scroll" href="#letSTalk">let's talk</a></li>
+                    <li><a class="scroll" href="#ru">ru</a></li>
+                </ul>
+                <!-- script for menu -->
+                <!-- //script for menu -->
+            </div>
+
+        </div>
+        <div class="banner-info">
+            <h1>we provide</h1><a href="#" class="horizontal-controls" id="prev"><img src="images/arrow_left_red.png" alt="arrow left red"></a><h1>Video Ads</h1><a href="#" class="horizontal-controls" id="next"><img
+                src="images/arrow_righ_red.png" alt=""></a>
+        </div>
+
+    </div>
+</section>
+<!-- //banner -->
+<!-- formats -->
+<section id="formats" class="formats">
+    <div class="container">
+        <div class="formats-info">
+            <h2>formats</h2>
+        </div>
+        <div class="player">
+            <h3>Autoplay</h3>
+            <div class="player_gallery">
+                <carousel-3d>
+                    <slide :index="0">
+                        <picture>
+                            <source srcset="images/ad_illustrations/Banners@1x.png,
+                  images/ad_illustrations/Banners@2x.png 2x">
+                            <img srcset="images/ad_illustrations/Banners.svg" alt="default image">
+                        </picture>
+                    </slide>
+                    <slide :index="1">
+                        <picture>
+                            <source srcset="images/ad_illustrations/Popunder@1x.png,
+                  images/ad_illustrations/Popunder@2x.png 2x">
+                            <img srcset="images/ad_illustrations/Popunder.svg" alt="default image">
+                        </picture>
+                    </slide>
+                    <slide :index="2">
+                        <picture>
+                            <source srcset="images/ad_illustrations/Autoplay@1x.png,
+                  images/ad_illustrations/Autoplay@2x.png 2x">
+                            <img srcset="images/ad_illustrations/Autoplay.svg" alt="default image">
+                        </picture>
+                    </slide>
+                </carousel-3d>
+        </div>
+            <p>Fusce vehicula dolor arcu, sit amet blandit dolor mollis nec. Donec viverra eleifend lacus, vitae ullamcorper metus.
+                Sed sollicitudin ipsum quis nunc sollicitudin ultrices. Donec euismod scelerisque ligula. Maecenas eu varius risus, eu aliquet arcu.</p>
+            <div class="leaveMessage"><p>Wanna try any of this formats?</p><a href="#">Leave a message!</a></div>
+
+            <div class="clearfix"></div>
+
+
+        </div>
+    </div>
+</section>
+<!-- //formats -->
+<!-- clients -->
+        <section id="clients" class="clients">
+            <div class="container">
+                <div class="header">
+                    <div class="logo">
+                        <h1><a href="#">ad<img class="logo_img" src="images/icono2.png" alt="">network</a></h1>
+                    </div>
+                    <div class="navigation">
+                        <ul class="nav1">
+                            <li><a class="navNon" href="#formats">formats</a></li>
+                            <li><a class="navNon" href="#clients">clients</a></li>
+                            <li><a class="navNon" href="#adsSetup">setup</a></li>
+                            <li><a class="navNon" href="#partners">partners</a></li>
+                            <li><a class="navNon" href="#yourRole">your role</a></li>
+                            <li><a class="scroll" href="#letSTalk">let's talk</a></li>
+                            <li><a class="scroll" href="#ru">ru</a></li>
+                        </ul>
+                        <!-- script for menu -->
+                        <!-- //script for menu -->
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="clients-info">
+                    <h2>our clients</h2>
+                    <p>Fusce vehicula dolor arcu, sit amet blandit dolor mollis nec. Donec viverra eleifend lacus, vitae.</p>
+                </div>
+                <div class="clients_gallery">
+                    <div class="clients_gallery_item">
+                        <picture>
+                        <source srcset="images/our_clients/Websites@2x.png">
+                        <img srcset="images/our_clients/Websites.svg" alt="Websites">
+                    </picture>
+                        <p>Websites</p>
+                    </div>
+                    <div class="clients_gallery_item">
+                        <picture>
+                            <source srcset="images/our_clients/BrowserPlugins@2x.png">
+                            <img srcset="images/our_clients/BrowserPlugins.svg" alt="Browser Plugins">
+                        </picture>
+                        <p>Browser Plugins</p>
+                    </div>
+                    <div class="clients_gallery_item">
+                        <picture>
+                            <source srcset="images/our_clients/MobileApps@2x.png">
+                            <img srcset="images/our_clients/MobileApps.svg" alt="default image">
+                        </picture>
+                        <p>Mobile Apps</p>
+                    </div>
+                    <div class="clients_gallery_item">
+                        <picture>
+                            <source srcset="images/our_clients/SocialNetworks@2x.png">
+                            <img srcset="images/our_clients/SocialNetworks.svg" alt="default image">
+                        </picture>
+                        <p>Social Networks</p>
+                    </div>
+                    <div class="clients_gallery_item">
+                        <picture>
+                            <source srcset="images/our_clients/EmailMArketing@2x.png">
+                            <img srcset="images/our_clients/EmailMArketing.svg" alt="default image">
+                        </picture>
+                        <p>Email Marketing</p>
+                    </div>
+                    <div class="clients_gallery_item">
+                        <picture>
+                            <source srcset="images/our_clients/SearchAd@2x.png">
+                            <img srcset="images/our_clients/SearchAd.svg" alt="default image">
+                        </picture>
+                        <p>Search Ad</p>
+                    </div>
+                    <div class="clearfix"></div>
+
+
+                </div>
+
+            </div>
+        </section>
+        <!-- //clients -->
+        <!-- ads setup -->
+        <section id="adsSetup" class="adsSetup">
+            <div class="container">
+                <div class="adsSetup-info">
+                    <h2>ads setup</h2>
+                    <p>Fusce vehicula dolor arcu, sit amet blandit dolor mollis nec. Donec viverra eleifend lacus, vitae.</p>
+                </div>
+                <div class="adsSetup_gallery">
+                    <div class="adsSetup_gallery_item">
+                        <img srcset="images/setup_icons/Country.svg" alt="Country">
+                        <p>Country</p>
+                    </div>
+                    <div class="adsSetup_gallery_item">
+                        <img srcset="images/setup_icons/Language.svg" alt="Language">
+                        <p>Language</p>
+                    </div>
+                    <div class="adsSetup_gallery_item">
+                        <img srcset="images/setup_icons/IPRange.svg" alt="IP_range">
+                        <p>IP range</p>
+                    </div>
+                    <div class="adsSetup_gallery_item">
+                        <img srcset="images/setup_icons/Browser.svg" alt="Browser">
+                        <p>Browser</br>(type & version)</p>
+                    </div>
+                    <div class="adsSetup_gallery_item">
+                        <img srcset="images/setup_icons/OperatingSystem.svg" alt="Operating system">
+                        <p>Operating system</p>
+                    </div>
+                    <div class="adsSetup_gallery_item">
+                        <img srcset="images/setup_icons/Location.svg" alt="Location">
+                        <p>Location</p>
+                    </div>
+                    <div class="adsSetup_gallery_item">
+                        <img srcset="images/setup_icons/TimeRange.svg" alt="Time range">
+                        <p>Time range</p>
+                    </div>
+                    <div class="adsSetup_gallery_item">
+                        <img srcset="images/setup_icons/DayOfWweek.svg" alt="Day of week">
+                        <p>Day of week</p>
+                    </div>
+                    <div class="adsSetup_gallery_item">
+                        <img srcset="images/setup_icons/Resolution.svg" alt="Retargeting">
+                        <p>Retargeting</p>
+                    </div>
+                    <div class="adsSetup_gallery_item">
+                        <img srcset="images/setup_icons/IDTrafficSource.svg" alt="Traffic source ID">
+                        <p>Traffic source ID</p>
+                    </div>
+                    <div class="adsSetup_gallery_item">
+                        <img srcset="images/setup_icons/Country.svg" alt="Screen resolution">
+                        <p>Screen resolution</p>
+                    </div>
+                    <div class="adsSetup_gallery_item">
+                        <img srcset="images/setup_icons/Country.svg" alt="Mobile carrier">
+                        <p>Mobile carrier</p>
+                    </div>
+                    <div class="adsSetup_gallery_item">
+                        <img srcset="images/setup_icons/Country.svg" alt="Wi-Fi traffic">
+                        <p>Wi-Fi traffic</p>
+                    </div>
+                    <div class="adsSetup_gallery_item">
+                        <img srcset="images/setup_icons/Country.svg" alt="Device format">
+                        <p>Device format</p>
+                    </div>
+                    <div class="adsSetup_gallery_item">
+                        <img srcset="images/setup_icons/Country.svg" alt="Device vendor">
+                        <p>Device vendor</p>
+                    </div>
+                    <div class="clearfix"></div>
+
+
+                </div>
+
+            </div>
+        </section>
+        <!-- //ads setup -->
+        <!-- partners -->
+        <section id="partners" class="ourPartners">
+            <div class="container">
+                <div class="ourPartners-info">
+                    <h2>our partners</h2>
+                    <p>Fusce vehicula dolor arcu, sit amet blandit dolor mollis nec. Donec viverra eleifend lacus, vitae.</p>
+                </div>
+                <div class="ourPartners_gallery">
+                    <div class="ourPartners_gallery_item">
+                        <img srcset="images/setup_icons/Country.svg" alt="Country">
+                    </div>
+                    <div class="ourPartners_gallery_item">
+                        <img srcset="images/setup_icons/Language.svg" alt="Language">
+                    </div>
+                    <div class="ourPartners_gallery_item">
+                        <img srcset="images/setup_icons/IPRange.svg" alt="IP_range">
+                    </div>
+                    <div class="ourPartners_gallery_item">
+                        <img srcset="images/setup_icons/Browser.svg" alt="Browser">
+                    </div>
+                    <div class="ourPartners_gallery_item">
+                        <img srcset="images/setup_icons/OperatingSystem.svg" alt="Operating system">
+                    </div>
+                    <div class="ourPartners_gallery_item">
+                        <img srcset="images/setup_icons/Location.svg" alt="Location">
+                    </div>
+                    <div class="ourPartners_gallery_item">
+                        <img srcset="images/setup_icons/TimeRange.svg" alt="Time range">
+                    </div>
+                    <div class="ourPartners_gallery_item">
+                        <img srcset="images/setup_icons/DayOfWweek.svg" alt="Day of week">
+                    </div>
+                    <div class="ourPartners_gallery_item">
+                        <img srcset="images/setup_icons/Resolution.svg" alt="Retargeting">
+                    </div>
+                    <div class="ourPartners_gallery_item">
+                        <img srcset="images/setup_icons/IDTrafficSource.svg" alt="Traffic source ID">
+                    </div>
+                    <div class="ourPartners_gallery_item">
+                        <img srcset="images/setup_icons/Country.svg" alt="Screen resolution">
+                    </div>
+                    <div class="ourPartners_gallery_item">
+                        <img srcset="images/setup_icons/Country.svg" alt="Mobile carrier">
+                    </div>
+                    <div class="ourPartners_gallery_item">
+                        <img srcset="images/setup_icons/Country.svg" alt="Wi-Fi traffic">
+                    </div>
+                    <div class="ourPartners_gallery_item">
+                        <img srcset="images/setup_icons/Country.svg" alt="Device format">
+                    </div>
+                    <div class="ourPartners_gallery_item">
+                        <img srcset="images/setup_icons/Country.svg" alt="Device vendor">
+                    </div>
+                    <div class="ourPartners_gallery_item">
+                        <img srcset="images/setup_icons/Country.svg" alt="Screen resolution">
+                    </div>
+                    <div class="ourPartners_gallery_item">
+                        <img srcset="images/setup_icons/Country.svg" alt="Mobile carrier">
+                    </div>
+                    <div class="ourPartners_gallery_item">
+                        <img srcset="images/setup_icons/Country.svg" alt="Wi-Fi traffic">
+                    </div>
+                    <div class="ourPartners_gallery_item">
+                        <img srcset="images/setup_icons/Country.svg" alt="Device format">
+                    </div>
+                    <div class="ourPartners_gallery_item">
+                        <img srcset="images/setup_icons/Country.svg" alt="Device vendor">
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+        </section>
+        <!-- //partners -->
+        <!-- your role -->
+        <section id="yourRole" class="yourRole">
+            <div class="container">
+                <div class="yourRole-info">
+                    <h2>your role</h2>
+                    <p>Fusce vehicula dolor arcu, sit amet blandit dolor mollis nec. Donec viverra eleifend lacus, vitae.</p>
+                </div>
+                <div class="yourRole-content">
+                <div class="yourRole-publisher">
+                    <div class="yourRole-publisher__title">
+                        <h3>publisher</h3>
+                    <a href="#" class="horizontal-controls" id="prev"><img src="images/arrow_left_red.png" alt="arrow left red"></a>
+                    </div>
+                    <div class="yourRole-publisher__description">
+                    <h4>publisher</h4>
+                    <ul>
+                        <li>High rates</li>
+                        <li>100% ransom</li>
+                        <li>24/7 support</li>
+                        <li>Convenient statistics</li>
+                        <li>On client's request payments</li>
+                        <li>Individual approach to each client</li>
+                    </ul>
+                        </div>
+                    <div class="LeaveMessage"><a href="#">Leave a message</a><p>if you're ready to work with us!</p></div>
+                </div>
+                <div class="yourRole-advertiser">
+                    <div class="yourRole-advertiser__title">
+                    <h3>advertiser</h3>
+                    <a href="#" class="horizontal-controls" id="prev"><img src="images/arrow_righ_red.png" alt="arrow left red"></a>
+                </div>
+                    <div class="yourRole-advertiser__description">
+                        <h4>advertiser</h4>
+                        <ul>
+                            <li>Transparent work model</li>
+                            <li>Adequate prices</li>
+                            <li>Individual approach</li>
+                            <li>Every available advertising format</li>
+                            <li>A lot of possibilities for advertising campaign targeting</li>
+                            <li>Client oprimization of advertising campaigns</li>
+                            <li>Remarketing</li>
+                            </ul>
+                    </div>
+
+                    <div class="testUs"><p>Want to start you campaign?</p><a href="#">Text us!</a></div>
+                </div>
+                </div>
+                </div>
+
+
+        </section>
+        <!-- //your role -->
+<!-- let's talk -->
+        <section id="letSTalk" class="letSTalk">
+            <div class="container">
+                <div class="letSTalk-info">
+                    <h2>let's talk</h2>
+            </div>
+                <div class="contact-grids">
+                    <div class="contact-left">
+                        <p>Fusce vehicula dolor arcu, sit amet blandit dolor mollis nec. Donec viverra eleifend lacus, vitae.</p>
+                        <h3>skype:</h3>
+                        <h4>adxnetwork</h4>
+                        <h3>email:</h3>
+                        <h4><a href="#">contact@adxnetwork</a></h4>
+                    </div>
+                    <div class="contact-right">
+                        <p>...or send us a message</p>
+                        <form>
+                            <input type="text" placeholder="Name" required>
+                            <input type="text" placeholder="E-Mail" required>
+                            <textarea placeholder="Your Message" required></textarea>
+                            <input type="submit" value="Send Message">
+                        </form>
+                    </div>
+                </div>
+        </section>
+        <!-- //let's talk -->
+</div>
+    <!-- footer -->
+    <footer class="footer">
+        <p>&copy; <?php date("Y"); ?> "adXnetwork"</p>
+        <p>All rights reserved.</p>
+    </footer>
+    <!-- //footer -->
+</div>
+</body>
+</html>
